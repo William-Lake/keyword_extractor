@@ -3,6 +3,19 @@ Keyword Extractor
 =================
 
 
+.. image:: https://img.shields.io/pypi/v/keyword_extractor.svg
+        :target: https://pypi.python.org/pypi/keyword_extractor
+
+.. image:: https://img.shields.io/travis/William-Lake/keyword_extractor.svg
+        :target: https://travis-ci.org/William-Lake/keyword_extractor
+
+.. image:: https://readthedocs.org/projects/keyword-extractor/badge/?version=latest
+        :target: https://keyword-extractor.readthedocs.io/en/latest/?badge=latest
+        :alt: Documentation Status
+
+
+
+
 A simple UI for extracting keywords from text.
 
 
