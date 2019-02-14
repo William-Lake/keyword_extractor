@@ -57,8 +57,3 @@ IF /I "%do_install%" NEQ "Y"  GOTO :EOF
 REM pip install %~1%
 
 GOTO :EOF
-
-REM  =======================================================================
-
-
-GOTO :EOF
