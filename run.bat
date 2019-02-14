@@ -54,6 +54,6 @@ REM Attempts to install module, asking user first.
 :NoModule
 SET /p do_install = The Python module %~1% is not installed and is required by the KeywordExtractor. Install it? [Y/N]
 IF /I "%do_install%" NEQ "Y"  GOTO :EOF
-REM pip install %~1%
+pip install %~1%
 
 GOTO :EOF
